@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5d7fd619a2530b9890f48891",
+  "owner": "yxqcax",
+  "repo": "page-a9b5e8d302d92a2e91f585c8",
+  "title": "Shadowfly",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9b5e8d302d92a2e91f585c8",
+      "a": "Shadowfly",
+      "b": "机场官网线路发布页",
+      "entity": "Shadowfly",
+      "brand": "Shadowfly",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6b6d2eccc95fac559bb718050df4fa30bcd4fd62d00996274f6bcc7f0313ea38",
+      "content": {
+        "primary_entity": "Shadowfly",
+        "keyword1": "Shadowfly",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_HERO_SUBTITLE": "Shadowfly 海外加速服务",
+          "AI_HERO_INTRO": "Shadowfly 提供面向跨境访问的海外加速方案，基础版、旗舰版与团队版覆盖不同流量和设备数需求。节点池包含普通线路与 IPLC 专线，可配合常见客户端导入订阅使用。",
+          "AI_VISUAL_TITLE": "Shadowfly 线路选择与订阅",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版可选企业定制路由",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量、在线设备数量和订阅周期三个角度比较 Shadowfly 套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量选择。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，按常用终端数量选择。",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格为 ¥150、¥350 或 ¥850，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用适配的客户端导入 Shadowfly 订阅，具体兼容性以客户端文档为准。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版增加流量与 IPLC 专线，团队版面向多设备协作场景。",
+          "AI_GUIDE_TITLE": "订阅使用步骤",
+          "AI_GUIDE_INTRO": "按需选择服务、确认设备适配、再配置订阅，完成 Shadowfly 的日常使用准备。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_1": "根据月流量、在线设备数量与预算，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_2": "确认设备适配要求",
+          "AI_STEP_TEXT_2": "查看常用系统是否有适配客户端，并核对套餐支持的设备数量。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，按需选择节点后开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Shadowfly 支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "常见桌面与移动系统可选用适配客户端导入订阅。具体兼容情况请参考客户端文档，并以所选套餐的设备数量为上限。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并提供 IPLC 专线游戏加速优化与优先支持。",
+          "AI_FAQ_QUESTION_3": "年付比月付更划算吗？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，适合长期使用并减少续费操作。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、支持 20 台设备在线，提供 VIP 高带宽节点与企业定制路由，适合多成员或多终端协作。",
+          "AI_FAQ_QUESTION_5": "订阅配置遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "先对照客户端文档检查订阅导入步骤，确认设备数量未超限。旗舰版与团队版用户可获得更优先的工单支持。",
+          "AI_CLOSING_TITLE": "开始使用 Shadowfly",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选择套餐，配置订阅后即可连接使用。",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月费分别为 ¥15、¥35 和 ¥85，年付价格为 ¥150、¥350 和 ¥850。流量从每月 100GB 到 1000GB 不等，在线设备数覆盖 3 台到 20 台。旗舰版含 IPLC 专线游戏加速优化与优先工单支持，团队版提供 VIP 高带宽节点和定制路由。配合常见客户端导入订阅，可按设备类型选择合适版本。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rymfg.cn",
+    "host": "rymfg.cn"
+  },
+  "file_hashes": {
+    "index.html": "334cda8e1fcb1505109fc5f884d3df6a5f3d5b65505c3809ee239cfd8fe6af61",
+    "sitemap.xml": "4c1f4111b8882025b6c677f4143a82b5417cd21055734417a3773eb1b2f5519e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "401d190d237617a70b2a5a80b55d0d45d4f5dec80033a7be0961b66c1a0d9293",
+    "robots.txt": "fd90f85cd3e3eceeaa99573b1020c20a47cad44154662971716ace3a07969397",
+    "1fec7ce5c2096a150966eeb99d2d2e7d.txt": "4034e7abb262a1175799c01cbff95e2e978183f9ff2207a90e8b6b96d1589306"
+  },
+  "revision": "863ea2f132df3847095b3fb3c83f6c84e98328f99142afaddd9f2a38f8511f19"
+}
